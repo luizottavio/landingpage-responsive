@@ -64,6 +64,11 @@ header > p {
 main.segundo {
     background-color: var(--cor03);
     padding-bottom: 18em;
+    padding-top: 15;
+    text-align: center;
+    
+
+    
 }
 
 main.terceiro {
@@ -95,9 +100,23 @@ div {
     background-color: var(--cor01);
     width: 280px;
     height: 480px;
-    margin-left: 120px;
     margin-top: 30px;
+    margin-block: 10px;
+    text-align: justify;
+    text-align: center;
+   
+}
+div.a1 > img {
+    width: 100%;
+   
+}
+div.a2 > img {
+    width: 100%;
     
+}
+div.a3 > img {
+    width: 100%;
+
     
 }
 
